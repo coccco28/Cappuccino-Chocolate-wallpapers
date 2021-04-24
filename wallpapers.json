@@ -1,10 +1,10 @@
-{
-	"wallpapers": [
+[
 		{
 			"name": "wallpaper",
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
 		{
@@ -12,6 +12,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper1.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
 		{
@@ -19,6 +20,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper2.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
 		{
@@ -26,6 +28,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper3.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
 		{
@@ -33,6 +36,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper4.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
 		{
@@ -40,6 +44,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper5.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
 		{
@@ -47,6 +52,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper6.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
 		{
@@ -54,6 +60,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper7.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
                 {
@@ -61,6 +68,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper8.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
                 {
@@ -68,6 +76,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper9.jpg",
 			"dimensions": "2960 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
                 {
@@ -75,6 +84,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper10.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
                 {
@@ -82,6 +92,7 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper11.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		},
                 {
@@ -89,9 +100,8 @@
 			"author": "coccco28",
 			"url": "https://raw.githubusercontent.com/coccco28/Cappuccino-Chocolate-wallpapers/master/wallpaper12.jpg",
 			"dimensions": "1440 x 2960",
+                        "downloadable": "true",
 			"copyright": ""
 		}
-                
- 
-     ]
-}
+
+]
